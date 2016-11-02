@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     TextView texto = (TextView) findViewById(R.id.boton1);
     public void onClick(View v){
-        texto.setText("HAS PULSADO");
+        texto.setText("NO HAS PULSADO");
 
     }
 }
